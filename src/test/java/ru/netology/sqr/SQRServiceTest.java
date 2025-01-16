@@ -8,7 +8,7 @@ import org.junit.jupiter.params.provider.CsvSource;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class SQRServiceTest {
-    @ParameterizedTest
+     @ParameterizedTest
 //    @CsvSource({
 //            "200,300,3",
 //            "200,400,5"
